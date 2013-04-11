@@ -232,19 +232,9 @@ Now you can start to enrich your blog !
 %%%%%%%%%%  Etape 3
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
-\section{Customize your blog}
+\section{Personalise your blog}
 %TODO Guillaume
 % Fond d’écran / catégorie / résumé
-%personnalisation de base
-%Personnaliser son blog sur overBlog est vraiment très facile. Sur la barre horizontal supérieur il y a un bouton thème (image du bouton)
-%Sur le panneau sur la gauche de votre browser une liste de thème vous est proposé. il y en a pour tout les goûts...
-%Le thème est appliqué sur la page d'aperçu pour permettre à M... de voir se que donnera le thème. Lorsque vous avez choisi le thème, il vous suffira de
-% cliquer sur le bouton enregistrer(image du bouton) ou le bouton annuler (image du bouton) si au contraire M... souhaite garder le précédent thème.
-
-%personnalisation avancée
-% Overblog propose aussi un mode de configuration pour les thèmes. Je ne les détaillerais pas dans ce document, étant donné qu'il y a de très nombreuses
-% options et que ces options peuvent être différentes d'un thème à l'autre. Il est même possible d'avoir et de modifier le contenu de la page html en direct et
-% d'en avoir un aperçu. Je vous déconseille d'utiliser le mode html sauf si vous êtes un utilisateur confirmé.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -264,11 +254,11 @@ The first time you come to the  \emph{Overblog admin interface} you cannot miss 
     \caption{Share panel}
 \end{figure}
 
-You can use it by clicking one of the buttons, like the Facebook button (if you have a Facebook account). Then agree with their proposal. With this linkage, you can feed your blog ! You are not obliged to rewrite your Facebook publications.
+You can use it by clicking one of the button, like the facebook button (if you have a facebook account). Then agree with their proposal. With this linkage, you can feed your blog ! You are not obliged to rewrite your facebook publications.
 
-In another way, this linkage can allow your blog to ask your ``friends" to see your blog.
+In an other way, this linkage can allow your blog to ask your ``friends" to see your blog.
 
-\subsection{Publish it on your favorite social networks !}
+\subsection{Publish it on your favorites social networks !}
 
 You can like your publications, or quote it by using the bar just under it.
 
@@ -278,7 +268,7 @@ You can like your publications, or quote it by using the bar just under it.
     \caption{Like bar}
 \end{figure}
 
-You are also able to share your article, even your blog, on your favorite social network. You just need to click on one of the following buttons.
+Your are also able to share your article, even your blog, on your favorite social network. You just need to click on one of the following buttons.
 
 \begin{figure}[h]
     \center
@@ -288,7 +278,7 @@ You are also able to share your article, even your blog, on your favorite social
 
 \subsection{Purpose}
 
-But why do all that ? To make your friends come to see your blog, comment it, like it, and share it with their own friends ! So more and more people can come to your blog and see your kiwi jam ! So let's do it.
+But why do all that ? To make your friends come to see your blog, comment it, like it, and share it with their own friends ! So more and more people can came to your blog and see your kiwi jam ! So let's do it.
 
  
 
