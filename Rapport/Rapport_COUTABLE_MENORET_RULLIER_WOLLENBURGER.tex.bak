@@ -146,13 +146,15 @@ COUTABLLE Guillaume, MENORET Clément, RULLIER Noémie, WOLLENBURGER Antoine \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Introduction}
 %TODO Noémie
+There are a lots of tools available to create a blog. There are intended to different persons from novice to professional.
+% plusieurs outils disponible du novice au professional
+% choisit un outils adapté à tous public (pr mme Michon) → OverBlog
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%  Etape 1
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
 \section{Sign up on overblog}
-%TODO Noémie
 The first step is to sign up on overblog. I will explain you how to do this:
 \begin{enumerate}
 \item First, open your web browser (for example \emph{Internet Explorer} \includegraphics[width=0.5cm]{Images/explorer.png} or \emph{Google chrome} \includegraphics[width=0.5cm]{Images/chrome.png}).
@@ -191,7 +193,7 @@ Then click on \emph{SIGN UP}.
 You can see that you have no confirmed you address email. Open your personal information manager, and open the mail send by \emph{marie@overblog.com}. If you don't see this mail, refresh your mail or look in your spam folder. The mail should look like that:
 \begin{figure}[H]
     \center
-	\includegraphics[width=8cm]{Images/emailOverblog.png}
+	\includegraphics[width=10cm]{Images/emailOverblog.png}
     \caption{Email send by overblog}
 \end{figure}
 Click on the link surrounded in red. You are redirected on this page:
